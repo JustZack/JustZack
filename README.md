@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustZack
-- 👀 I’m interested in web technologies for building websites.
-- 🌱 I’m currently learning Wordpress plugin development & server administration
+- 👀 I’m interested in web technologies.
+- 🌱 I’m currently learning Wordpress plugin development & server administration.
 
 - 💼 Trying to become a freelance web developer to meet a variety of website needs.
 
